@@ -1,0 +1,10 @@
+beautifulsoup4
+lxml
+python-dotenv
+httpx[http2]
+motor
+pybloom-live
+playwright
+tenacity
+simhash-py
+simhash
